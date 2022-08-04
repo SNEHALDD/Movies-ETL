@@ -68,6 +68,7 @@ Fig : Deliverable3_movies_with_ratings
 
 ### Deliverable 4 - Create the Movie Database
 - The data from the movies_df DataFrame replaces the current data in the movies table in the SQL database, as determined by the movies_query.png.
+<img width="1663" alt="movies_query" src="https://user-images.githubusercontent.com/106944351/182972393-32256340-366a-4933-8bbd-02ca26296fd8.png">
 
 - The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the ratings_query.png.
 <img width="1617" alt="ratings_query" src="https://user-images.githubusercontent.com/106944351/182961538-7a64918b-43a6-4076-810d-531191bfe815.png">
